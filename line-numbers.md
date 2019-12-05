@@ -10,6 +10,6 @@
 #### 10
 #### 11 Jenny perished somewhere.
 #### 12
-#### 13 Jamie perished and goes down there.
+#### 13 Jenny perished and goes up there.
 #### 14
 #### 15
