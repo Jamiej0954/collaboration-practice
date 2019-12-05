@@ -6,7 +6,7 @@
 #### 6
 #### 7 Jamie is here and Jenny is up there.
 #### 8
-#### 9
+#### 9 Github is really good.
 #### 10
 #### 11
 #### 12
